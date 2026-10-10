@@ -2,7 +2,7 @@
   <tr>
     <td valign="middle">
       <h1>Hi, I'm Syed Abdulla Nawaz</h1>
-      <h3>Cybersecurity | Cloud Security | IoT Security | Security Engineering</h3>
+      <h3>Cybersecurity | Cloud Security | IoT Security | Blockchain Tech | Security Engineering</h3>
       <p>
         <a href="https://github.com/syedabdullanawaz">
           <img src="https://komarev.com/ghpvc/?username=syedabdullanawaz&style=for-the-badge&color=0e9f6e&label=PROFILE+VIEWS" alt="Profile views" />
@@ -29,37 +29,6 @@ I'm a Computer Science Engineering student at **Maharaja Institute of Technology
 - 🎓 B.E. expected graduation: **August 2027**
 - 📫 Reach me at **[abdullanawaz17@gmail.com](mailto:abdullanawaz17@gmail.com)**
 
-## Featured Projects
-
-### ☁️ CloudSentry CDR — Cloud Detection & Response
-A cloud security auditing console designed to monitor AWS security posture and identify configuration and compliance drift.
-
-- IAM checks for MFA enforcement and dormant access keys
-- Security posture visualization with CIS benchmark mapping
-- Risk-remediation workflow with a safe **Dry Run** mode
-- Discord ChatOps alerting
-
-**Tech:** Python · FastAPI · Boto3 · AWS · SQLite · Leaflet.js · REST APIs
-
-### 🛡️ Cortex — MITRE ATT&CK Defender
-A security analytics prototype that maps raw telemetry and security log data to MITRE ATT&CK techniques to support investigation and triage.
-
-- Parses security telemetry and structures alerts for analysis
-- Generates remediation-oriented templates
-- Visualizes security-event metrics in an interactive dashboard
-- Uses Docker for consistent deployment
-
-**Tech:** Python · Streamlit · Docker · Security Log Parsing · MITRE ATT&CK
-
-### 📡 V.A.N. Guard — Hybrid IoT/ML Wi-Fi Anomaly Detector
-A hardware-assisted Wi-Fi monitoring prototype using machine learning to identify suspicious network activity.
-
-- Uses a NodeMCU ESP8266 for 802.11 frame capture
-- Applies an Isolation Forest model to flag unusual network behavior
-- Targets patterns such as deauthentication floods, MAC spoofing, and rogue access points
-- Streams structured logs for forensic analysis
-
-**Tech:** Python · Scikit-learn · Machine Learning · NodeMCU ESP8266 · Wi-Fi Analysis
 
 ## Technical Skills
 
