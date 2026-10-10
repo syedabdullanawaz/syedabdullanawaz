@@ -20,6 +20,28 @@ I'm a passionate DevOps & Cloud Engineer working on modern tech, infrastructure,
 
 - 🔭 I’m currently working on Cloud & Infrastructure projects
 - 🌱 I’m currently learning Kubernetes and Advanced CI/CD
+- 💬 Ask me about Cloud, Automation, and Scripting<img align="right" alt="Coding" width="380" src="https://github.com/N4si/N4si/blob/main/coder3.gif?raw=true">
+
+# Hi, I'm Syed Abdulla Nawaz
+
+I'm a passionate DevOps & Cloud Engineer working on modern tech, infrastructure, and automation.
+
+### Languages and Tools:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
+
+<br clear="right" />
+
+---
+
+- 🔭 I’m currently working on Cloud & Infrastructure projects
+- 🌱 I’m currently learning Kubernetes and Advanced CI/CD
 - 💬 Ask me about Cloud, Automation, and Scripting
 # Hi, I'm Syed Abdulla Nawaz
 
