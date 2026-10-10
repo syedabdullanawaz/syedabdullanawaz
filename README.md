@@ -1,23 +1,24 @@
-<div align="center">
-
-# Hi, I'm Syed Abdulla Nawaz
-
-### Cybersecurity | Cloud Security | IoT Security | Security Engineering
-
-<p>
-  <a href="https://github.com/syedabdullanawaz">
-    <img src="https://komarev.com/ghpvc/?username=syedabdullanawaz&style=for-the-badge&color=0e9f6e&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-  <a href="https://github.com/syedabdullanawaz?tab=followers">
-    <img src="https://img.shields.io/github/followers/syedabdullanawaz?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
-  </a>
-</p>
-
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      <h1>Hi, I'm Syed Abdulla Nawaz</h1>
+      <h3>Cybersecurity | Cloud Security | IoT Security | Security Engineering</h3>
+      <p>
+        <a href="https://github.com/syedabdullanawaz">
+          <img src="https://komarev.com/ghpvc/?username=syedabdullanawaz&style=for-the-badge&color=0e9f6e&label=PROFILE+VIEWS" alt="Profile views" />
+        </a>
+        <a href="https://github.com/syedabdullanawaz?tab=followers">
+          <img src="https://img.shields.io/github/followers/syedabdullanawaz?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
+        </a>
+      </p>
+    </td>
+    <td align="right" valign="middle">
+      <img src="cyber-dev.gif.gif" width="380" alt="Cyber Dev" />
+    </td>
+  </tr>
+</table>
 
 ## About Me
-
-<img align="right" width="300" src="cyber-dev.gif.gif" alt="Cyber Dev" />
 
 I'm a Computer Science Engineering student at **Maharaja Institute of Technology, Mysuru**, specializing in **IoT, Cybersecurity, and Blockchain Technology**. I enjoy building practical security tools that connect cloud security, threat detection, network analysis, and automation.
 
@@ -27,8 +28,6 @@ I'm a Computer Science Engineering student at **Maharaja Institute of Technology
 - 🛠️ Learning by building, testing, documenting, and improving hands-on projects
 - 🎓 B.E. expected graduation: **August 2027**
 - 📫 Reach me at **[abdullanawaz17@gmail.com](mailto:abdullanawaz17@gmail.com)**
-
-<br clear="right" />
 
 ## Featured Projects
 
@@ -97,52 +96,4 @@ A hardware-assisted Wi-Fi monitoring prototype using machine learning to identif
 
 <p>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsyedabdullanawaz&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=181717" alt="Public repository count" />
-  <img src="https://img.shields.io/github/stars/syedabdullanawaz?style=for-the-badge&logo=github&label=Stars%20on%20my%20repos&color=e3b341" alt="Stars on repositories" />
-</p>
-
-### Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=syedabdullanawaz&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
-
-### Contribution Activity & Commit Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syedabdullanawaz&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity and commit graph" />
-
-</div>
-
-## Certifications & Learning
-
-- **Google Cybersecurity Professional Certificate** — Coursera
-- **National-Level Bootcamp on IoT Forensics** — C-DAC Thiruvananthapuram, ISEA Phase III
-- **IEEE — Mobile Devices & Wi-Fi Security Standard**
-- **Infosys Springboard — Network Fundamentals**
-- **1 Million Prompters — Prompt Engineering & LLM Architecture**
-- **Simplilearn — Machine Learning with Python**
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/syed-abdulla-nawaz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:abdullanawaz17@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/syedabdullanawaz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-&nbsp;
-<a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <i>Securing systems. Investigating threats. Building practical solutions.</i>
-</div>
+  <img src="
