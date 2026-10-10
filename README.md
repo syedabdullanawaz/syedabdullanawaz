@@ -15,9 +15,9 @@
 
 </div>
 
-<img align="right" width="280" src="cyber-dev.gif" alt="Cyber Dev" />
-
 ## About Me
+
+<img align="right" width="300" src="cyber-dev.gif.gif" alt="Cyber Dev" />
 
 I'm a Computer Science Engineering student at **Maharaja Institute of Technology, Mysuru**, specializing in **IoT, Cybersecurity, and Blockchain Technology**. I enjoy building practical security tools that connect cloud security, threat detection, network analysis, and automation.
 
@@ -27,6 +27,8 @@ I'm a Computer Science Engineering student at **Maharaja Institute of Technology
 - 🛠️ Learning by building, testing, documenting, and improving hands-on projects
 - 🎓 B.E. expected graduation: **August 2027**
 - 📫 Reach me at **[abdullanawaz17@gmail.com](mailto:abdullanawaz17@gmail.com)**
+
+<br clear="right" />
 
 ## Featured Projects
 
