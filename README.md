@@ -67,24 +67,26 @@ I'm a Computer Science Engineering student at **Maharaja Institute of Technology
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsyedabdullanawaz&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&color=181717" alt="Public repository count" />
   <img src="
 
-## Connect With Me
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/syed-abdulla-nawaz/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:abdullanawaz17@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/syedabdullanawaz" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-</a>
+   Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/syed-abdulla-nawaz/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abdullanawaz17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/syedabdullanawaz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="45" height="45" />
+  </a>
+</p>
 
 </div>
