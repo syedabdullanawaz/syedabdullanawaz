@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img align="right" alt="Coding" width="380" src="https://github.com/N4si/N4si/blob/main/coder3.gif?raw=true">
 
 # Hi, I'm Syed Abdulla Nawaz
 
@@ -7,15 +7,10 @@ I'm a passionate DevOps & Cloud Engineer working on modern tech, infrastructure,
 ### Languages and Tools:
 
 <p align="left">
-  <!-- AWS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/> &nbsp;
-  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-  <!-- Docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> &nbsp;
-  <!-- Linux -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &nbsp;
-  <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
@@ -25,10 +20,7 @@ I'm a passionate DevOps & Cloud Engineer working on modern tech, infrastructure,
 
 - 🔭 I’m currently working on Cloud & Infrastructure projects
 - 🌱 I’m currently learning Kubernetes and Advanced CI/CD
-- 💬 Ask me about Cloud, Automation, and Scripting<div align="center">
-  <img src="https://raw.githubusercontent.com/N4si/N4si/main/coder3.gif" width="380" align="right" alt="Coding GIF" />
-</div>
-
+- 💬 Ask me about Cloud, Automation, and Scripting
 # Hi, I'm Syed Abdulla Nawaz
 
 I'm a passionate Cybersecurity engineer working on modern tech, building secure solutions and exploring new tools.
