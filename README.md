@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td valign="middle">
-      <h1>Hi, I'm Syed Abdulla Nawaz</h1>
+      <h1>Hi, I'm Syed Abdulla Nawaz!!</h1>
       <h3>Cybersecurity | Cloud Security | IoT Security | Blockchain Tech | Security Engineering</h3>
       <p>
         <a href="https://github.com/syedabdullanawaz">
-          <img src="https://komarev.com/ghpvc/?username=syedabdullanawaz" />
+          <img src=" />
         </a>
         <a href="https://github.com/syedabdullanawaz?tab=followers">
           <img src="https://img.shields.io/github/followers/syedabdullanawaz?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
