@@ -5,7 +5,7 @@
       <h3>Cybersecurity | Cloud Security | IoT Security | Blockchain Tech | Security Engineering</h3>
       <p>
         <a href="https://github.com/syedabdullanawaz">
-          <img src="https://komarev.com/ghpvc/?username=syedabdullanawaz&style=for-the-badge&color=0e9f6e" />
+          <img src="https://komarev.com/ghpvc/?username=syedabdullanawaz" />
         </a>
         <a href="https://github.com/syedabdullanawaz?tab=followers">
           <img src="https://img.shields.io/github/followers/syedabdullanawaz?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
