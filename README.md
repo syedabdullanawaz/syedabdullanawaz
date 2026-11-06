@@ -1,17 +1,17 @@
-# Hi, I'm Syed Abdulla Nawaz!! 👨‍💻
+# Hi, I'm Syed Abdulla Nawaz!! 
 
 **Cybersecurity | Cloud Security | IoT Security | Blockchain Tech | Security Engineering**
 
-### 👨‍🎓 About Me
+###  About Me
 
 I'm a Computer Science Engineering student at Maharaja Institute of Technology, Mysuru, specializing in IoT, Cybersecurity, and Blockchain Technology. I enjoy building practical security tools that connect cloud security, threat detection, network analysis, and automation.
 
-* 🔭 **Interested in** cybersecurity, cloud security, threat detection, and digital forensics
-* 💻 **Building** security-focused projects with Python, AWS, Docker, and FastAPI
-* 🔍 **Exploring** security frameworks including MITRE ATT&CK and CIS Benchmarks
-* 🚀 **Learning** by building, testing, documenting, and improving hands-on projects
-* 🎓 **B.E. expected graduation:** August 2027
-* 📫 **Reach me at** [abdullanawaz17@gmail.com](mailto:abdullanawaz17@gmail.com)
+*  **Interested in** cybersecurity, cloud security, threat detection, and digital forensics
+*  **Building** security-focused projects with Python, AWS, Docker, and FastAPI
+   **Exploring** security frameworks including MITRE ATT&CK and CIS Benchmarks
+*  **Learning** by building, testing, documenting, and improving hands-on projects
+*  **B.E. expected graduation:** August 2027
+*  **Reach me at** [abdullanawaz17@gmail.com](mailto:abdullanawaz17@gmail.com)
 
 ---
 
@@ -42,22 +42,9 @@ I'm a Computer Science Engineering student at Maharaja Institute of Technology, 
 
 ---
 
-### 📊 GitHub Overview
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedabdullanawaz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedabdullanawaz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Most Used Languages" />
-</div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syedabdullanawaz&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
-</div>
-
----
-
-### 🤝 Connect With Me
+###  Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/syedabdullanawaz" target="_blank">
