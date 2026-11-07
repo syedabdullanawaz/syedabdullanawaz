@@ -21,9 +21,13 @@
 <!--                    TERMINAL                       -->
 <!-- ================================================= -->
 
-## `01 / IDENTITY`
+## 01 / IDENTITY
 
 <div align="center">
+
+Your content goes here.
+
+</div>
 
 ```bash
 nawaz@github:~$ whoami
@@ -110,7 +114,7 @@ I'm passionate about cybersecurity, cloud security, Linux and emerging technolog
 
 ### `nawaz@github:~$ ./contributions.sh`
 
-<img src="./assets/contribution-glyphs.gif" width="100%" alt="Animated contribution graph"/>
+<img src="./contribution-glyphs-preview.gif" width="100%" alt="Animated contribution graph"/>
 
 <br/>
 
