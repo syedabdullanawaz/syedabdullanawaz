@@ -92,7 +92,7 @@ I'm passionate about cybersecurity, cloud security, Linux and emerging technolog
 
 ### LANGUAGES, PLATFORMS & TOOLS
 
-<img src="https://skillicons.dev/icons?i=python,c,sql,bash,linux,aws,docker,git,mysql,fastapi&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,c,sql,bash,linux,aws,docker,git&perline=8"/>
 
 <br/>
 
