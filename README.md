@@ -5,29 +5,35 @@
 
 <div align="center">
 
-# SYED ABDULLA NAWAZ
+<h1><code>SYED ABDULLA NAWAZ</code></h1>
 
-### CYBERSECURITY · CLOUD SECURITY · LINUX
+<h3>CYBERSECURITY ENGINEER · CLOUD SECURITY · LINUX</h3>
 
-`SECURE` &nbsp; / &nbsp; `BUILD` &nbsp; / &nbsp; `INNOVATE`
+<p>
+  <code>SECURE</code> &nbsp; // &nbsp; <code>BUILD</code> &nbsp; // &nbsp; <code>INNOVATE</code>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&lines=Cybersecurity+Enthusiast;Cloud+Security+Explorer;Linux+%26+Security+Engineering;Always+Learning.+Always+Building." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Cloud+Security+Explorer;Linux+%26+Security+Engineering;Always+Learning.+Always+Building." alt="Typing animation"/>
+
+<br/>
+
+<samp>nawaz@github:~$ whoami</samp>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-238636?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-238636?style=flat-square"/>
+<img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-238636?style=flat-square"/>
 
 </div>
 
 ---
 
 <!-- ================================================= -->
-<!--                    TERMINAL                       -->
+<!--                    IDENTITY                       -->
 <!-- ================================================= -->
 
-## 01 / IDENTITY
-
-<div align="center">
-
-Your content goes here.
-
-</div>
+## `01 / IDENTITY`
 
 ```bash
 nawaz@github:~$ whoami
@@ -45,8 +51,6 @@ Always learning. Always building.
 
 nawaz@github:~$ _
 ```
-
-</div>
 
 ---
 
@@ -112,19 +116,9 @@ I'm passionate about cybersecurity, cloud security, Linux and emerging technolog
 
 <div align="center">
 
-### `nawaz@github:~$ ./contributions.sh`
+### <code>nawaz@github:~$ ./contributions.sh</code>
 
-<img src="./contribution-glyphs-preview.gif" width="100%" alt="Animated contribution graph"/>
-
-<br/>
-
-| GLYPH | ACTIVITY |
-|:---:|:---|
-| `.` | Low |
-| `:` | Moderate |
-| `+` | Good |
-| `#` | High |
-| `@` | Maximum |
+<img src="./contribution-glyphs-preview.gif" width="100%" alt="Animated contribution activity graph"/>
 
 </div>
 
@@ -138,13 +132,13 @@ I'm passionate about cybersecurity, cloud security, Linux and emerging technolog
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=syedabdullanawaz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&include_all_commits=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syedabdullanawaz&theme=github_dark" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedabdullanawaz&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syedabdullanawaz&theme=github_dark" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=syedabdullanawaz&theme=transparent&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=888888"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=syedabdullanawaz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=AAAAAA&dates=888888" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -201,7 +195,7 @@ I'm passionate about cybersecurity, cloud security, Linux and emerging technolog
 > Building a safer, smarter and more secure digital world.
 ```
 
-<img src="https://komarev.com/ghpvc/?username=syedabdullanawaz&style=flat-square&color=888888&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=syedabdullanawaz&style=flat-square&color=238636&label=PROFILE+VIEWS"/>
 
 **Thanks for visiting my profile.**
 
