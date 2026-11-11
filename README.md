@@ -118,7 +118,7 @@ I'm passionate about cybersecurity, cloud security, Linux and emerging technolog
 
 ### <code>nawaz@github:~$ ./contributions.sh</code>
 
-<img src="./contribution-glyphs-preview.gif" width="100%" alt="Animated contribution activity graph"/>
+<img src="./contribution-glyphs-preview%20(2).gif" width="100%" alt="Animated green contribution activity graph"/>
 
 </div>
 
